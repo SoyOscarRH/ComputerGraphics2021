@@ -9,12 +9,12 @@ Simple practice to calculate the points of a line segment using line equation.
 Reading from an .obj as source file and drawing it in a .ppm file by making xy projection. 
 Lines can be drawn using line equation, DDA or Bresenham algorithms.
 
-<img src="practice2/output.png" width="200" height="200" />
+<img src="practice2/output.png" width="200" />
 
 ## Practice 3: Animation perspective
 Reading an .obj file and apply some transformations to it. Transformations are applied using 4x4 matrices (in order to use 3D Homogeneous space). Lots of frames (each frame is a .ppm file) are generated to create an animation.
 
-<img src="practice3/output.png" width="200" height="200" />
+<img src="practice3/output.png" width="200" />
 
 
 ## Practice 4:  Illumination
@@ -27,7 +27,7 @@ Drawing 3D surfaces using Bernstein polynomials.
 ### PPM Mexico Creator
 Generate a simple ppm file that draws a mexico flag
 
-<img src="ppm-mexico-creator/output.png" width="200" height="200" />
+<img src="ppm-mexico-creator/output.png" width="200" />
 
 ## YouTube channel
 I'm uploading videos in this channel: https://www.youtube.com/channel/UCCUAluWPgnS40Tc8mtDQR9Q
